@@ -11,7 +11,7 @@
 ## Career
 
 **(주)에스파이온코리아** · 주임연구원 · 2022.06 – 2026.03 (3년 10개월)
-CAMIS(의료정보시스템) 웹 서비스 운영 및 신규 개발. 신규 의료기관 온보딩 현장 파견(일본 5개 기관 + 출장), 장애 대응 및 배포 관리.
+CAMIS(의료정보시스템) 웹 서비스 운영 및 신규 개발. 일본 신규 의료기관 5곳(온보딩 출장) 포함 현장 파견, 장애 대응 및 배포 관리.
 
 `ASP.NET(C#)` `Oracle PL/SQL` `DevExpress` `Vue.js`
 
@@ -37,8 +37,10 @@ CAMIS(의료정보시스템) 웹 서비스 운영 및 신규 개발. 신규 의�
 
 ## Tech Stack
 
-**Languages** `C#` `Python` `JavaScript` `PL/SQL` `Java`
-**Backend** `ASP.NET` `FastAPI` `Spring Boot`
-**Frontend** `Vue.js` `React`
-**DB/Cloud** `Oracle` `PostgreSQL` `Azure (VM · Custom Vision · Speech)`
-**AI** `Gemini API` `gpt-image-2` `nvdiffrast`
+| 구분 | 스택 |
+|---|---|
+| Languages | `C#` `Python` `JavaScript` `PL/SQL` `Java` |
+| Backend | `ASP.NET` `FastAPI` `Spring Boot` |
+| Frontend | `Vue.js` `React` |
+| DB/Cloud | `Oracle` `PostgreSQL` `Azure (VM · Custom Vision · Speech)` |
+| AI | `Gemini API` `gpt-image-2` `nvdiffrast` |
