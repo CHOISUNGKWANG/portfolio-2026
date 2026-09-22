@@ -55,9 +55,8 @@ CAMIS(의료정보시스템) 웹 서비스 운영 및 신규 개발. 일본 의�
 | 구분 | 스택 |
 |---|---|
 | Languages | `C#` `Python` `JavaScript` `PL/SQL` `Java` |
-| Backend | `ASP.NET` `FastAPI` `SQLAlchemy` `SSE` `Spring Boot` |
+| Backend | `ASP.NET` `FastAPI` `Spring Boot` |
 | Frontend | `HTML/CSS/JavaScript` `Vue.js` `DevExpress` |
-| Database | `Oracle` `PostgreSQL` `Alembic` |
-| Cloud/Infra | `Azure (VM · GPU VM · Container Apps · Custom Vision · Speech)` `Nginx` `Caddy` `GitHub Actions` |
-| AI | `Gemini API` `gpt-image-2` `PyTorch` `nvdiffrast` |
+| Database | `Oracle` `PostgreSQL` |
+| Cloud/Infra | `Azure (VM · Container Apps · Custom Vision · Speech)` `Nginx` `Caddy` `GitHub Actions` |
 | Collaboration | `Git/GitHub (PR 기반)` `GitHub Projects` |
